@@ -1,2 +1,6 @@
-# thy-recorder
-Official website and privacy policy for Thy Recorder.
+# Thy Recorder
+
+A lightweight macOS screen recorder for capturing your screen, application audio, and microphone.
+
+- [Privacy Policy](privacy.html)
+- Contact: [kakukousyou@gmail.com](mailto:kakukousyou@gmail.com)
