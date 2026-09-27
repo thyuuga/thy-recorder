@@ -48,4 +48,4 @@ This Privacy Policy may be updated if Thy Recorder's functionality or privacy pr
 
 For privacy-related questions, please contact:
 
-kakukousyou@gmail.com
+[kakukousyou@gmail.com](mailto:kakukousyou@gmail.com)
